@@ -206,6 +206,12 @@ h3{
     padding: 10px;
 }
 
+.a-1,.a-2{
+    margin: 10px;
+}
+
+
+
 .a-3{
     margin-top: 10px;
     flex-direction: row;
